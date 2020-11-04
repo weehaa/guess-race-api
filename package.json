@@ -1,0 +1,33 @@
+{
+  "name": "guess_race_api",
+  "version": "1.0.0",
+  "author": "AxVes",
+  "description": "Guess Race Game API",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weehaa/guess-race-api.git"
+  },
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost/"
+  },
+  "scripts": {
+    "start": "NODE_ENV=production node server",
+    "dev": "nodemon server",
+    "test": "jest --forceExit"
+  },
+  "devDependencies": {
+    "jest": "^22.4.4",
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "morgan": "^1.10.0",
+    "supertest": "^3.4.2"
+  }
+}

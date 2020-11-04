@@ -1,0 +1,7822 @@
+[
+  {
+    "word": "год",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "человек",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "время",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "дело",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "жизнь",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "день",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "рука",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "раз",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "работа",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "слово",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "место",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "лицо",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "друг",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "глаз",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "вопрос",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "дом",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "сторона",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "страна",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "мир",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "случай",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "голова",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "ребенок",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "сила",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "конец",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "вид",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "система",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "часть",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "город",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "отношение",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "женщина",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "деньги",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "земля",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "машина",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "вода",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "отец",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "проблема",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "час",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "право",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "нога",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "решение",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "дверь",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "образ",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "история",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "власть",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "закон",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "война",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "бог",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "голос",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "тысяча",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "книга",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "возможность",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "результат",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "ночь",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "стол",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "имя",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "область",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "статья",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "число",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "компания",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "народ",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "жена",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "группа",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "развитие",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "процесс",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "суд",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "условие",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "средство",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "начало",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "свет",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "пора",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "путь",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "душа",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "уровень",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "форма",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "связь",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "минута",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "улица",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "вечер",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "качество",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "мысль",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "дорога",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "мать",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "действие",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "месяц",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "государство",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "язык",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "любовь",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "взгляд",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "мама",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "век",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "школа",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "цель",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "общество",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "деятельность",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "организация",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "президент",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "комната",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "порядок",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "момент",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "театр",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "письмо",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "утро",
+    "lang": "ru",
+    "level": "1"
+  },
+  {
+    "word": "помощь",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "ситуация",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "роль",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "рубль",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "смысл",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "состояние",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "квартира",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "орган",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "внимание",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "тело",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "труд",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "сын",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "мера",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "смерть",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "рынок",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "программа",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "задача",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "предприятие",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "окно",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "разговор",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "правительство",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "семья",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "производство",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "информация",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "положение",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "центр",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "ответ",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "муж",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "автор",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "стена",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "интерес",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "федерация",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "правило",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "управление",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "мужчина",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "идея",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "партия",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "совет",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "счет",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "сердце",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "движение",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "вещь",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "материал",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "неделя",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "чувство",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "глава",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "наука",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "ряд",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "газета",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "причина",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "плечо",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "цена",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "план",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "речь",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "точка",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "основа",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "товарищ",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "культура",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "данные",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "мнение",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "документ",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "институт",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "ход",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "проект",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "встреча",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "директор",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "срок",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "палец",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "опыт",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "служба",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "судьба",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "девушка",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "очередь",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "лес",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "состав",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "член",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "количество",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "событие",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "объект",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "зал",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "создание",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "значение",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "период",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "шаг",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "брат",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "искусство",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "структура",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "номер",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "пример",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "исследование",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "гражданин",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "игра",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "начальник",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "рост",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "тема",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "принцип",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "метод",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "тип",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "фильм",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "край",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "гость",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "воздух",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "характер",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "борьба",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "использование",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "размер",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "образование",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "мальчик",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "кровь",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "район",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "небо",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "армия",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "класс",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "представитель",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "участие",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "девочка",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "политика",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "герой",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "картина",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "доллар",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "спина",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "территория",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "пол",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "поле",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "изменение",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "направление",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "рисунок",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "течение",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "церковь",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "банк",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "сцена",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "население",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "большинство",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "музыка",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "правда",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "свобода",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "память",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "команда",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "союз",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "врач",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "договор",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "дерево",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "факт",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "хозяин",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "природа",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "угол",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "телефон",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "позиция",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "двор",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "писатель",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "самолет",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "объем",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "род",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "солнце",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "вера",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "берег",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "спектакль",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "фирма",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "способ",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "завод",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "цвет",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "журнал",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "руководитель",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "специалист",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "оценка",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "регион",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "песня",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "процент",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "родитель",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "море",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "требование",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "основание",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "половина",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "роман",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "круг",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "анализ",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "стихи",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "автомобиль",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "экономика",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "литература",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "бумага",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "поэт",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "степень",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "господин",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "надежда",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "предмет",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "вариант",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "министр",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "граница",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "дух",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "модель",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "операция",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "пара",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "сон",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "название",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "ум",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "повод",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "старик",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "миллион",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "успех",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "счастье",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "ребята",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "кабинет",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "магазин",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "пространство",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "выход",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "удар",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "база",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "знание",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "текст",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "защита",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "руководство",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "площадь",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "сознание",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "возраст",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "участник",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "участок",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "пункт",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "линия",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "желание",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "папа",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "доктор",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "губа",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "дочь",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "среда",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "председатель",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "представление",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "солдат",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "художник",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "волос",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "оружие",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "соответствие",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "ветер",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "парень",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "зрение",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "генерал",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "огонь",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "понятие",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "строительство",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "ухо",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "грудь",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "нос",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "страх",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "услуга",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "содержание",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "радость",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "безопасность",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "продукт",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "комплекс",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "бизнес",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "сад",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "сотрудник",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "лето",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "курс",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "предложение",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "рот",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "технология",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "реформа",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "отсутствие",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "собака",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "камень",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "будущее",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "рассказ",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "контроль",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "река",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "продукция",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "сумма",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "техника",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "здание",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "сфера",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "необходимость",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "фонд",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "подготовка",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "лист",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "республика",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "хозяйство",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "воля",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "бюджет",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "снег",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "деревня",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "мужик",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "элемент",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "обстоятельство",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "немец",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "победа",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "источник",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "звезда",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "выбор",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "масса",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "итог",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "сестра",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "практика",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "проведение",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "карман",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "слава",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "кухня",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "определение",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "функция",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "войско",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "комиссия",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "применение",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "капитан",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "работник",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "обеспечение",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "офицер",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "фамилия",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "предел",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "выборы",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "ученый",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "бутылка",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "бой",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "теория",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "зона",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "отдел",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "зуб",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "разработка",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "личность",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "гора",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "товар",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "метр",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "праздник",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "влияние",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "читатель",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "удовольствие",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "актер",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "слеза",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "ответственность",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "учитель",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "акт",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "боль",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "множество",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "особенность",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "показатель",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "корабль",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "звук",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "впечатление",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "частность",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "детство",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "вывод",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "профессор",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "доля",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "норма",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "прошлое",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "командир",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "коридор",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "поддержка",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "рамка",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "враг",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "этап",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "черт",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "дед",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "собрание",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "прием",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "болезнь",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "клетка",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "кожа",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "заявление",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "попытка",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "сравнение",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "расчет",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "депутат",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "комитет",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "знак",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "дядя",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "учет",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "хлеб",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "чай",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "режим",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "целое",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "вирус",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "выражение",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "здоровье",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "зима",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "десяток",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "глубина",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "сеть",
+    "lang": "ru",
+    "level": "2"
+  },
+  {
+    "word": "студент",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "секунда",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "скорость",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "поиск",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "суть",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "налог",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ошибка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "доход",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "режиссер",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "поверхность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ощущение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "карта",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "клуб",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "станция",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "революция",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "колено",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "министерство",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "стекло",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "этаж",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "высота",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "бабушка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "трубка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "газ",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "мастер",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "поведение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "столица",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "механизм",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "передача",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "способность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "подход",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "энергия",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "существование",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "исполнение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "кино",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сожаление",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "заместитель",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ресурс",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "акция",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "рождение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "администрация",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "стоимость",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "улыбка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "артист",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сосед",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "фраза",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "фигура",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "субъект",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "реакция",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "список",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "фотография",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "журналист",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "май",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "нарушение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "заседание",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "толпа",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "больница",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "существо",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "свойство",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "долг",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "поколение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "животное",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "схема",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "усилие",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "отличие",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "остров",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "противник",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "волна",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "реализация",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "страница",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "формирование",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "житель",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "красота",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "птица",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "растение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "тень",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "явление",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "храм",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "запах",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "водка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "наличие",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ужас",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "одежда",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "кресло",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "больной",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "поезд",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "университет",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "традиция",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "адрес",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "декабрь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ладонь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сведение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "цветок",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "лидер",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "октябрь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "занятие",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сентябрь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "помещение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "январь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "зритель",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "редакция",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "стиль",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "весна",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "фактор",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "август",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "известие",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "зависимость",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "охрана",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "оборудование",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "концерт",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "отделение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "расход",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "выставка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "милиция",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "переход",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "эпоха",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "запад",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "произведение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "родина",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "собственность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "тайна",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "трава",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "лагерь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "имущество",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "кровать",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "аппарат",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "середина",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "март",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "клиент",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "дама",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "фронт",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "отрасль",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "стул",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "беседа",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "законодательство",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "продажа",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "повышение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "музей",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "след",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "полковник",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сомнение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "понимание",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "апрель",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "князь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "рыба",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "дума",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "кодекс",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сутки",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "чудо",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "шея",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "судья",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "крыша",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "настроение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "поток",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "должность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "преступление",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "мозг",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "честь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "пост",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "еврей",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "июнь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сотня",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "дождь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "лестница",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "дача",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "установка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "появление",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "получение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "образец",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "труба",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "главное",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "осень",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "костюм",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "баба",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ценность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "обязанность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "пьеса",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "таблица",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "вино",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "воспоминание",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "лошадь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "коллега",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "организм",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ученик",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "учреждение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "открытие",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "том",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "черта",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "характеристика",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "выполнение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "оборона",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "выступление",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "температура",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "перспектива",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "подруга",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "приказ",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "жертва",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ресторан",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "километр",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "спор",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "вкус",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "признак",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "промышленность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "американец",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "лоб",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "заключение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "восток",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "исключение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ключ",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "постановление",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "слой",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "бок",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "июль",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "перевод",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "секретарь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "кусок",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "слух",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "польза",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "звонок",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "обстановка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "чиновник",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "соглашение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "деталь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "русский",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "тишина",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "зарплата",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "билет",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "подарок",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "тюрьма",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ящик",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "конкурс",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "книжка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "изучение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "просьба",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "царь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "публика",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "смех",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сообщение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "угроза",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "беда",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "блок",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "достижение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "назначение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "реклама",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "портрет",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "масло",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "стакан",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "урок",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "часы",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "крик",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "творчество",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "телевизор",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "инструмент",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "концепция",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "лейтенант",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "экран",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "дно",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "реальность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "канал",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "мясо",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "знакомый",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "щека",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "конфликт",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "переговоры",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "запись",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "вагон",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "площадка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "последствие",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сотрудничество",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "зеркало",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "тон",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "академия",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "палата",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "потребность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ноябрь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "увеличение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "дурак",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "поездка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "обед",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "потеря",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "февраль",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "мероприятие",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "парк",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "принятие",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "устройство",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "вещество",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "категория",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сезон",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "гостиница",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "издание",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "объединение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "темнота",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "человечество",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "колесо",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "опасность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "разрешение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "воздействие",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "коллектив",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "камера",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "запас",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "следствие",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "длина",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "крыло",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "округ",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "фон",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "кандидат",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "родственник",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "давление",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "присутствие",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "взаимодействие",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "доска",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "партнер",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "двигатель",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "шум",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "достоинство",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "грех",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "нож",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "полет",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "страсть",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "испытание",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "TRUE",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "оплата",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "разница",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "водитель",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "пакет",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "снижение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "формула",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "живот",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "капитал",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "мост",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "новость",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "эффект",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "вход",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "губернатор",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "доклад",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "смена",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "убийство",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "эксперт",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "автобус",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "платье",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "кадр",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "тетя",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "общение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "психология",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "лев",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "порог",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "проверка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "процедура",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "рабочий",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ремонт",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "обращение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "обучение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ожидание",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "памятник",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "корень",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "наблюдение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "буква",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "доказательство",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "признание",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "постель",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "штаб",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "владелец",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "компьютер",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "инженер",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "старуха",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "лодка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ракета",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "серия",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "шутка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "вершина",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "выпуск",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "кулак",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "лед",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "торговля",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "нефть",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "молодежь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "цифра",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "корпус",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "недостаток",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сапог",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сущность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "талант",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "эффективность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "кофе",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "полоса",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "основное",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "рассмотрение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сбор",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "штат",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "следователь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "жилье",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "мешок",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "описание",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "куст",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "отказ",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "замок",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "редактор",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "дворец",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "забота",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "пиво",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "диван",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "столик",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "эксперимент",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "печать",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "кольцо",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "пистолет",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "воспитание",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "начальство",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "профессия",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ворота",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "добро",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "дружба",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "покой",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "риск",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "окончание",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "дым",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "брак",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "величина",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "записка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "инициатива",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "совесть",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "активность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "кость",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "спорт",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "кредит",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "господь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "майор",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "конференция",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "потолок",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "библиотека",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "помощник",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "конструкция",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "отдых",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ручка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "металл",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "молоко",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "прокурор",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "транспорт",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "поэзия",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "соединение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "краска",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "расстояние",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "мечта",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "село",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "еда",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "зло",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "подразделение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сюжет",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "рубеж",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сигнал",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "атмосфера",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "крест",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "вес",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "взрыв",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "контакт",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сигарета",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "восторг",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "золото",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "почва",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "премия",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "король",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "подъезд",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "шанс",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "автомат",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "заказ",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "мальчишка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "очки",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "миг",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "штука",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "чтение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "поселок",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "свидетель",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "ставка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сумка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "удивление",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "хвост",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "песок",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "поворот",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "возвращение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "мгновение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "статус",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "озеро",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "строй",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "параметр",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сказка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "тенденция",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "вина",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "дыхание",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "версия",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "масштаб",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "монастырь",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "хозяйка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "дочка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "танец",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "эксплуатация",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "коммунист",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "пенсия",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "приятель",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "объяснение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "набор",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "производитель",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "пыль",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "философия",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "мощность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "обязательство",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "уход",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "горло",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "кризис",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "указание",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "плата",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "яблоко",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "препарат",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "действительность",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "москвич",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "остаток",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "изображение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сделка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "сочинение",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "покупатель",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "танк",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "затрата",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "строка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "единица",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "обработка",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "чемпионат",
+    "lang": "ru",
+    "level": "3"
+  },
+  {
+    "word": "acorn",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "acrid",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "actor",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "adept",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "adobe",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "adorn",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "adult",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "agent",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "agony",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "aisle",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "alder",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "alien",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "alike",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "alive",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "alone",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "aloud",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "amber",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "ample",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "angel",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "angry",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "ankle",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "antic",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "arise",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "aspen",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "aspic",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "audio",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "awful",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "azure",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "balmy",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bandy",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "basic",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "basin",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "batch",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "baton",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bawdy",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "beady",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "beast",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "being",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bigot",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "binge",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bingo",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "biped",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "birch",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "birth",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bison",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "blame",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bland",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "blank",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bleak",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bleat",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "blind",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bloat",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "blond",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "blunt",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bodge",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bogus",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bonus",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bound",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "boxer",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "braid",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "brand",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "brash",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "brave",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "brawl",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "brawn",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "brick",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "brief",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "brisk",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "broad",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "broke",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "brute",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bugle",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "built",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bulky",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "burly",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "bushy",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "butch",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "cadet",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "cadre",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "camel",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "caste",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "cedar",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "chaos",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "chard",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "cheap",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "chest",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "chief",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "china",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "chirp",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "chive",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "choir",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "chore",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "cleft",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "clerk",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "clove",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "clown",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "conga",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "coral",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "corny",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "corps",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "court",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "couth",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "cover",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "cramp",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "crash",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "crawl",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "crazy",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "cream",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "crime",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "crimp",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "croup",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "crown",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "crude",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "cruel",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "cruet",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "crypt",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "curve",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "daily",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "delta",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "demon",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "depth",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "diary",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "diner",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "dinge",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "disco",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "diver",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "dogma",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "doing",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "dough",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "downy",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "dowry",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "dozen",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "draft",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "drake",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "drift",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "drove",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "drunk",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "dumpy",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "dusky",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "dusty",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "dwarf",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "dying",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "debut",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "early",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "elfin",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "entry",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "envoy",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "epoch",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "equal",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "ethic",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "exact",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "exist",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "extra",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "faint",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "fairy",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "faker",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "fakir",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "false",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "fancy",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "fated",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "feint",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "felon",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "femur",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "feral",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "field",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "fiend",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "fiery",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "filet",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "final",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "finch",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "first",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "fishy",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "fitch",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "fiver",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "fixed",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "fixer",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "flair",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "flaky",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "flank",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "flask",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "flesh",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "flint",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "flirt",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "flora",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "fluid",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "fluke",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "flush",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "forte",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "forum",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "frail",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "frank",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "frisk",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "frond",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "fusty",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "gamut",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "gaunt",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "gauze",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "genus",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "getup",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "giant",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "glade",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "gland",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "glare",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "gloat",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "gnome",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "grail",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "grand",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "grate",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "grave",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "gravy",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "great",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "grief",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "grise",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "groat",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "group",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "grove",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "guild",
+    "lang": "en",
+    "level": "1"
+  },
+  {
+    "word": "gumbo",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "hardy",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "hazel",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "heady",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "heavy",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "hoary",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "honey",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "horde",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "hover",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "human",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "husky",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "idler",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "inert",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "inlet",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "irony",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "ivory",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "jerky",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "jihad",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "joust",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "juicy",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "jumbo",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "knave",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "labor",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "large",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "laser",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "later",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "latex",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "leafy",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "leaky",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "lemon",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "letch",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "limbo",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "lined",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "liner",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "lithe",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "liver",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "loath",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "locus",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "lofty",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "logic",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "lotus",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "lover",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "lower",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "lucid",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "lucky",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "lumen",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "lurid",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "lusty",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "lying",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "lyric",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "macro",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "madly",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "maize",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "major",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "mango",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "manly",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "manor",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "manse",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "maybe",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "mealy",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "meaty",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "media",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "medic",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "midge",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "miner",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "minor",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "mirth",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "miser",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "misty",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "mixed",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "mixer",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "mocha",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "modal",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "model",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "moist",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "molar",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "moral",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "morel",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "mould",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "mousy",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "mover",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "movie",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "mufti",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "murky",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "mushy",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "music",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "musty",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "nadir",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "naive",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "naked",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "nasty",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "navel",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "neigh",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "nervy",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "night",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "noble",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "noisy",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "north",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "noted",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "nymph",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "oared",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "ocean",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "often",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "olive",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "omega",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "opera",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "optic",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "ounce",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "outer",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "ovary",
+    "lang": "en",
+    "level": "2"
+  },
+  {
+    "word": "ovine",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "palsy",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "panic",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "pants",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "party",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "pasty",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "peach",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "pecan",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "pedal",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "phony",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "piano",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "piety",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "pilot",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "pinch",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "pinky",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "pious",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "pithy",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "plain",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "plumb",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "plush",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "poker",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "pokey",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "polar",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "polka",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "porch",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "prawn",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "prime",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "primo",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "privy",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "prize",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "prone",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "prose",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "proud",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "proxy",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "pylon",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "quack",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "qualm",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "quart",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "quick",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "quiet",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "quint",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "quirk",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "quite",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "quota",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "rabid",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "rapid",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "ratio",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "raven",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "rayon",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "ready",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "regal",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "reign",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "reins",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "relax",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "relay",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "relic",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "right",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "rocky",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "rogue",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "rouge",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "rough",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "royal",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "rusty",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "sable",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "sabre",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "salon",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "salty",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "salvo",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "sandy",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "satin",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "satyr",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "saucy",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "scald",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "scaly",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "scant",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "scape",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "scary",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "scion",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "scrim",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "scrip",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "setup",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "shady",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "shaky",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "shank",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "shard",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "shine",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "shiny",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "shire",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "shlep",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "shoal",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "shock",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "short",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "showy",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "sigma",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "siren",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "skate",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "skein",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "skimp",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "slate",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "slave",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "slick",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "slimy",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "sloth",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "smock",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "smoky",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "snail",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "snake",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "snaky",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "snowy",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "soapy",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "sober",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "solar",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "solid",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "sough",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "south",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "spare",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "spate",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "spelt",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "spent",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "sperm",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "spick",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "spicy",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "splat",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "splay",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "split",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "spore",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "sport",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "spume",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "spunk",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "squab",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "squat",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "squid",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "stair",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "stale",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "stang",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "stark",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "steam",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "stern",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "stock",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "stoic",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "stole",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "stone",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "straw",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "stuck",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "suite",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "sulky",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "sumac",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "super",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "swain",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "swank",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "swing",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "sworn",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "sylph",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "synod",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "syrup",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "talon",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tango",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tawny",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "teary",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tempo",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tenor",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "thick",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "thief",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "thing",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "think",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "thong",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "throb",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "thunk",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tiger",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tiler",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "timer",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tipsy",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tired",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "topaz",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "topic",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "torus",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tough",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "touse",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "trace",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "trial",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "trice",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tripe",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "trope",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "truck",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "truly",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "trunk",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tuber",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tulip",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tumid",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tumor",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tuner",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "tunic",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "twice",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "twink",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "ultra",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "umber",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "umbra",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "unfit",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "unite",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "upset",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "urban",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "valor",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "velum",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "video",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "vinyl",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "viola",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "viper",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "vista",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "vital",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "vixen",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "vocal",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "vogue",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "wader",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "waste",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "waver",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "waxen",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "weald",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "weary",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "weird",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "wench",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "wheat",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "white",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "wince",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "windy",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "wiper",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "wired",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "world",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "worse",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "worth",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "wound",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "woven",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "wrath",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "wrong",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "yacht",
+    "lang": "en",
+    "level": "3"
+  },
+  {
+    "word": "zebra",
+    "lang": "en",
+    "level": "3"
+  }
+]
