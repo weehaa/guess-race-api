@@ -9,6 +9,10 @@ require('colors');
 dotenv.config({ path: './config/config.env' });
 
 const connectDB = require('./config/db');
+const errorHandler = require('./middleware/error-handler');
+
+//Import route files
+const languages = require('./routes/languages');
 
 // Connect to DB
 connectDB();
@@ -18,6 +22,12 @@ const app = express();
 
 // Apply logging middleware in development mode
 process.env.NODE_ENV === 'DEVELOPMENT' && app.use(morgan('dev'));
+
+// Mount routers
+app.use('/api/v1/languages', languages);
+
+// Error handler
+app.use(errorHandler);
 
 const PORT = process.env.PORT || 5050;
 
