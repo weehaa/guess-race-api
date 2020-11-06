@@ -13,6 +13,7 @@ const errorHandler = require('./middleware/error-handler');
 
 //Import route files
 const languages = require('./routes/languages');
+const wordsRouter = require('./routes/words');
 
 // Connect to DB
 connectDB();
@@ -25,6 +26,7 @@ process.env.NODE_ENV === 'DEVELOPMENT' && app.use(morgan('dev'));
 
 // Mount routers
 app.use('/api/v1/languages', languages);
+app.use('/api/v1/words', wordsRouter);
 
 // Error handler
 app.use(errorHandler);
