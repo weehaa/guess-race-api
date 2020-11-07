@@ -32,19 +32,22 @@ exports.getWordExists = asyncHandler(async (req, res, next) => {
   const word = await Words.findOne(
     {
       languageId: req.params.languageId,
-      word: req.query.word
+      word: req.query.word,
     });
 
   if (!word) {
     throw {
       message: 'Word does not exist',
-      statusCode: 404
-    }
+      statusCode: 404,
+    };
   }
 
   await res.status(200).json({
     success: true,
-    data: { wordExists: true },
+    data: {
+      word,
+      wordExists: true,
+    },
   });
   next();
 });
