@@ -85,9 +85,16 @@ exports.getRandomWord = asyncHandler(async (req, res, next) => {
       { $sample: { size: 1 } },
     ]);
 
+  if (!randomWord || !randomWord.length) {
+    throw {
+      message: 'Could not retrieve random word with specified parameters',
+      statusCode: 404,
+    };
+  }
+
   await res.status(200).json({
     success: true,
-    data: randomWord,
+    word: randomWord[0].word,
   });
   next();
 });
