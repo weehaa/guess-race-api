@@ -1,0 +1,15 @@
+version: '2.4'
+
+services:
+  server:
+    build:
+      context: .
+      target: dev
+#    command: nodemon -L server.js
+    volumes:
+      - .:/node/app
+      - /node/app/node_modules
+    env_file:
+       config/config.env
+    ports:
+      - 5050:5050
