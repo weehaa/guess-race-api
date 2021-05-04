@@ -1,21 +1,20 @@
-const express = require('express');
+import express from 'express';
 
-const dotenv = require('dotenv');
+import dotenv from 'dotenv';
 // HTTP request logger middleware for node.js
-const morgan = require('morgan');
-const cookieParser = require('cookie-parser');
-const mongoSanitize = require('express-mongo-sanitize');
-const helmet = require('helmet');
-const xssClean = require('xss-clean');
-const hpp = require('hpp');
-const cors = require('cors');
-const rateLimit = require('express-rate-limit');
-require('colors');
+import morgan from 'morgan';
+import cookieParser from 'cookie-parser';
+import mongoSanitize from 'express-mongo-sanitize';
+import helmet from 'helmet';
+// import xssClean from 'xss-clean';
+import hpp from 'hpp';
+import cors from 'cors';
+import rateLimit from 'express-rate-limit';
 
 // Load env vars
 dotenv.config({ path: './config/config.env' });
 
-const connectDB = require('./config/db');
+import connectDB from './config/db';
 const errorHandler = require('./middleware/error-handler');
 
 //Import route files
@@ -38,7 +37,7 @@ app.use(mongoSanitize());
 app.use(helmet());
 
 // Prevent XSS attack
-app.use(xssClean());
+// app.use(xssClean());
 
 // Apply rate limiter
 const limiter = rateLimit({
