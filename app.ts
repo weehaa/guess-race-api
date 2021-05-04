@@ -61,4 +61,4 @@ app.use('/api/v1/words', wordsRouter);
 // Error handler
 app.use(errorHandler);
 
-module.exports = app;
+export default app;
