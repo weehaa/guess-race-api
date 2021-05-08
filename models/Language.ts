@@ -1,6 +1,6 @@
-const mongoose = require('mongoose');
+import { Schema, model } from 'mongoose';
 
-const LanguageSchema = new mongoose.Schema({
+const LanguageSchema = new Schema({
   _id: {
     type: String,
     required: [true, 'Lang id is required'],
@@ -18,4 +18,4 @@ const LanguageSchema = new mongoose.Schema({
   },
 });
 
-module.exports = mongoose.model('Language', LanguageSchema);
+export default model('Language', LanguageSchema);

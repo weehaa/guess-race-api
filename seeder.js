@@ -1,16 +1,16 @@
-const fs = require('fs');
-const mongoose = require('mongoose');
-const dotenv = require('dotenv');
+import { readFileSync } from 'fs';
+import { connect } from 'mongoose';
+import { config } from 'dotenv';
 
-require('colors');
+import 'colors';
 
 // Load env vars
-dotenv.config({ path: './config/config.env' });
+config({ path: './config/config.env' });
 
 // Connect to DB and init a session
 const initSession = async () => {
   try {
-    const conn = await mongoose.connect(process.env.MONGO_URI, {
+    const conn = await connect(process.env.MONGO_URI, {
       useNewUrlParser: true,
       useCreateIndex: true,
       useFindAndModify: false,
@@ -26,11 +26,11 @@ const initSession = async () => {
 const data = [
   {
     model: require('./models/Language'),
-    file: JSON.parse(fs.readFileSync(`${__dirname}/_data/languages.json`, 'utf-8')),
+    file: JSON.parse(readFileSync(`${__dirname}/_data/languages.json`, 'utf-8')),
   },
   {
     model: require('./models/Word'),
-    file: JSON.parse(fs.readFileSync(`${__dirname}/_data/words.json`, 'utf-8')),
+    file: JSON.parse(readFileSync(`${__dirname}/_data/words.json`, 'utf-8')),
   },
 ];
 

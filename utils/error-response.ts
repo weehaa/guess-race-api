@@ -1,10 +1,23 @@
+import { Error as MongoError } from 'mongoose'
+
+export interface IErrorResponse extends Error {
+  statusCode?: number;
+  code?: number;
+  value?: string;
+  errors?: MongoError[];
+}
+
 class ErrorResponse extends Error {
-  constructor(error) {
-    const { message, name, value, code, statusCode, errors, stack } = error || {};
-    super({ ...error });
+  statusCode: number;
+  dbError: string;
+
+  constructor(error: IErrorResponse) {    
+    const { message, name, value, code, statusCode, errors = [], stack } = error || {};    
+    super(message);
 
     this.name = 'ErrorResponse';
     // Default values
+    this.dbError = '';
     this.statusCode = statusCode || 500;
     this.message = message || 'Server Error';
 
@@ -40,4 +53,4 @@ class ErrorResponse extends Error {
   }
 }
 
-module.exports = ErrorResponse;
+export default ErrorResponse;

@@ -3,7 +3,7 @@ import express from 'express';
 import dotenv from 'dotenv';
 // HTTP request logger middleware for node.js
 import morgan from 'morgan';
-import cookieParser from 'cookie-parser';
+// import cookieParser from 'cookie-parser';
 import mongoSanitize from 'express-mongo-sanitize';
 import helmet from 'helmet';
 // import xssClean from 'xss-clean';
@@ -15,11 +15,11 @@ import rateLimit from 'express-rate-limit';
 dotenv.config({ path: './config/config.env' });
 
 import connectDB from './config/db';
-const errorHandler = require('./middleware/error-handler');
+import errorHandler from './middleware/error-handler';
 
 //Import route files
-const languages = require('./routes/languages');
-const wordsRouter = require('./routes/words');
+import languages from './routes/languages';
+import wordsRouter from './routes/words';
 
 // Connect to DB
 connectDB();

@@ -1,12 +1,7 @@
-const express = require('express');
-const {
-  getWords,
-  getLanguageWords,
-  getRandomWord,
-  getWordExists
-} = require('../controllers/words');
+import { Router } from 'express';
+import { getWords, getLanguageWords, getRandomWord, getWordExists } from '../controllers/words';
 
-const router = express.Router({ mergeParams: true });
+const router = Router({ mergeParams: true });
 
 router
   .route('/')
@@ -24,4 +19,4 @@ router
   .route('/:languageId/randomword')
   .get(getRandomWord);
 
-module.exports = router;
+export default router;

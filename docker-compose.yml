@@ -2,14 +2,15 @@ version: '2.4'
 
 services:
   server:
+    stdin_open: true # docker run -i
+    tty: true # docker run -t
     build:
       context: .
       target: dev
-#    command: nodemon -L server.js
+    #    command: nodemon -L server.js
     volumes:
       - .:/node/app
       - /node/app/node_modules
-    env_file:
-       config/config.env
+    env_file: config/config.env
     ports:
       - 5050:5050

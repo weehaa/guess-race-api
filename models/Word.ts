@@ -1,6 +1,6 @@
-const mongoose = require('mongoose');
+import { Schema, model } from 'mongoose';
 
-const WordSchema = new mongoose.Schema({
+const WordSchema = new Schema({
   word: {
     type: String,
     required: [true, 'Word is required'],
@@ -9,7 +9,7 @@ const WordSchema = new mongoose.Schema({
     maxlength: [20, 'Word can not be more than 20 characters long'],
   },
   languageId: {
-    type: mongoose.Schema.Types.String,
+    type: Schema.Types.String,
     ref: 'Language',
     required: true,
   },
@@ -21,4 +21,4 @@ const WordSchema = new mongoose.Schema({
   },
 });
 
-module.exports = mongoose.model('Word', WordSchema);
+export default model('Word', WordSchema);
