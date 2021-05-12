@@ -14,7 +14,7 @@ import rateLimit from 'express-rate-limit';
 // Load env vars
 dotenv.config({ path: './config/config.env' });
 
-import connectDB from './config/db';
+import connectDB from '../config/db';
 import errorHandler from './middleware/error-handler';
 
 //Import route files

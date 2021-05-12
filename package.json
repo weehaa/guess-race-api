@@ -10,7 +10,8 @@
   },
   "scripts": {
     "start": "NODE_ENV=production node server",
-    "dev": "nodemon server"
+    "dev": "nodemon src/server.ts",
+    "build": "tsc -p ./"
   },
   "devDependencies": {
     "@types/colors": "^1.2.1",

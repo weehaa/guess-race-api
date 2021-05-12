@@ -1,4 +1,5 @@
 config/config.env
 node_modules/
+build/
 .idea/
 docker-compose*.yml
