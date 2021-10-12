@@ -12,7 +12,7 @@ import cors from 'cors';
 import rateLimit from 'express-rate-limit';
 
 // Load env vars
-dotenv.config({ path: './config/config.env' });
+dotenv.config({ path: './config/config.env' });
 
 import connectDB from '../config/db';
 import errorHandler from './middleware/error-handler';
@@ -34,7 +34,13 @@ process.env.NODE_ENV === 'development' && app.use(morgan('dev'));
 app.use(mongoSanitize());
 
 // Set security headers
-app.use(helmet());
+// https://github.com/graphql/graphql-playground/issues/1283
+app.use(
+  helmet({
+    contentSecurityPolicy:
+      process.env.NODE_ENV === 'production' ? undefined : false,
+  })
+);
 
 // Prevent XSS attack
 // app.use(xssClean());
@@ -42,7 +48,7 @@ app.use(helmet());
 // Apply rate limiter
 const limiter = rateLimit({
   windowMs: 10 * 60 * 1000, // 10 minutes
-  max: 1000
+  max: 1000,
 });
 
 app.use(limiter);

@@ -1,7 +1,13 @@
 import app from './app';
+import { ApolloServer } from 'apollo-server-express';
 import color from 'colors/safe';
+import { typeDefs, resolvers } from './graphql';
 
 const PORT = process.env.PORT || 5050;
+
+const apolloServer = new ApolloServer({ typeDefs, resolvers });
+
+apolloServer.applyMiddleware({ app, path: '/graphql' });
 
 const server = app.listen(PORT, () => {
   console.log(
